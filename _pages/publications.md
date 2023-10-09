@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: <p>Please refer to my  <a href="https://scholar.google.ca/citations?user=NDGuxa8AAAAJ&hl=en">Google Scholar Profile</a> for a complete list. </p>
+description: <h6>Please see <b><a href='https://scholar.google.ca/citations?user=NDGuxa8AAAAJ&hl=en&oi=ao'>Google Scholar Profile</a></b> for an up-to-date list.</h6>
+years: [Preprints, 2023, 2022, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, Thesis]
 nav: true
 nav_order: 1
 ---
