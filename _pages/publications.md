@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: For the complete list, please refer to my [Google Scholar Profile](https://scholar.google.ca/citations?user=NDGuxa8AAAAJ&hl=en)
+description: For the complete list, please refer to my  <a href="https://scholar.google.ca/citations?user=NDGuxa8AAAAJ&hl=en">Google Scholar Profile</a> 
 nav: true
 nav_order: 1
 ---
