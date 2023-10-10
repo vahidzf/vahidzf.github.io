@@ -2,11 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I teach the courses listed on this page.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- Instructor
+  - Institution: University of Isfahan
+  - Location: Iran
+  - Date: 1999 - 2023
+  - Courses:
+    - Kinesiology
+    - Patho-Kinesiology
+    - Neuromuscular Physiology
+    - Exercise and Disease
+    - Rehab of Injured Athletes
+    - Statistics and Research Methods in Exercise Sciences
 
-Organize your courses by years, topics, or universities, however you like!
+- Instructor
+  - Institution: University of Isfahan
+  - Location: Iran
+  - Date: 1990 - 1993
+  - Courses:
+    - Exercise Physiology
+    - Assessment and Evaluation in PE
+    - Physical Fitness
+    - Exercise and Disease
