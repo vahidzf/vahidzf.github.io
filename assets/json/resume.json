@@ -93,11 +93,10 @@
   "volunteer": [],
   "education": [
       {
-          "degree": "PhD in Cardiac Rehab",
-          "institution": "The University of Manchester",
-          "location": "Manchester, England",
-          "date": "1999",
-          "description": "Dissertation: The Effects of Cardiac Rehabilitation on Functional Capacity, Quality of Life, Self-Efficacy and Exercise-Induced Feelings",
+          "studyType": "PhD in Cardiac Rehab",
+          "institution": "The University of Manchester, Engalnd",
+          "endDate": "1999",
+          "area": "Dissertation: The Effects of Cardiac Rehabilitation on Functional Capacity, Quality of Life, Self-Efficacy and Exercise-Induced Feelings",
           "supervisors": [
               "Prof. Nick Boreham",
               "Dr. Pauline Mills"
@@ -105,19 +104,17 @@
           "advisor": "Prof. Christine Bundy"
       },
       {
-          "degree": "MSC in Exercise Physiology",
-          "institution": "University of Tarbiat Modares",
-          "location": "Iran",
-          "date": "1989",
-          "description": "Thesis: Functional and Anthropometric Characteristics of Elite Iranian Wrestlers and Gymnasts",
+          "studyType": "MSC in Exercise Physiology",
+          "institution": "University of Tarbiat Modares, Iran",
+          "endDate": "1989",
+          "area": "Thesis: Functional and Anthropometric Characteristics of Elite Iranian Wrestlers and Gymnasts",
           "supervisor": "Prof. Hojatollah Nikbakht",
           "advisor": "Prof. Asghar Khaledan"
       },
       {
-          "degree": "BSC in Physical Education",
-          "institution": "University of Isfahan",
-          "location": "Iran",
-          "date": "1987"
+          "studyType": "BSC in Physical Education",
+          "institution": "University of Isfahan, Iran",
+          "endDate": "1987"
       }
   ]
 
