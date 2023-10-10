@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Isfahan</a>.<a href='#'>University of Safahan</a>. email: firstname.lastname@gmail.com. Moto. 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Isfahan</p>
+    <p>University of Safahan</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
