@@ -4,7 +4,6 @@
     "label": "Professor",
     "image": "",
     "email": "firstname.lastname@gmail.com",
-    "phone": "email",
     "url": "https://vahidzf.github.io",
     "summary": "Professor of Cardiac Rehabilitation",
     "location": {
@@ -25,59 +24,70 @@
   
   "work": [
       {
-          "year": "2020-2023",
+          "startDate": "2020",
+          "endDate": "2023",
           "position": "Chief Executive Officer",
-          "organization": "Safahan Exercise Rehab Center"
+          "name": "Safahan Exercise Rehab Center"
       },
       {
-          "year": "2015 - 2023",
+          "startDate": "2015",
+          "endDate":"2023",
           "position": "Member of Scientific Association of Sport Injuries and Corrective Exercises",
-          "organization": "The Sport Sciences Research Institute (SSRI) of Iran"
+          "name": "The Sport Sciences Research Institute (SSRI) of Iran"
       },
       {
-          "year": "2006 - 2023",
+          "startDate": "2006",
+          "endDate":"2023",
           "position": "Foundation Board Member & Executive Board Member",
-          "organization": "Safahan Institute of Higher Education"
+          "name": "Safahan Institute of Higher Education"
       },
       {
-          "year": "2008-2012",
+          "startDate": "2008",
+          "endDate":"2012",
           "position": "Head of the Isfahan Volleyball Association",
-          "organization": "Isfahan"
+          "name": "Isfahan"
       },
       {
-          "year": "2014-2022",
+          "startDate": "2014",
+          "endDate":"2022",
           "position": "Director of the Department of Sport Injuries & Corrective Exercises",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       },
       {
-          "year": "2016-2023",
+          "startDate": "2016",
+          "endDate":"2023",
           "position": "Professor of Exercise Rehabilitation",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       },
       {
-          "year": "2008-2015",
+          "startDate": "2008",
+          "endDate":"2015",
           "position": "Associate Professor of Exercise Rehabilitation",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       },
       {
-          "year": "1999-2007",
+          "startDate": "1999",
+          "endDate":"2007",
           "position": "Assistant Professor of Exercise Rehabilitation",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       },
       {
-          "year": "2002-2006",
+          "startDate": "2002",
+          "endDate":"2006",
           "position": "Head of the General Office for Physical Education and Leisure",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       },
       {
-          "year": "2000-2006",
+          "startDate": "2000",
+          "endDate":"2006",
           "position": "Head of the Faculty of Exercise Sciences",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       },
       {
-          "year": "1991-1993",
+          "startDate": "1991",
+          "endDate":"1993",
           "position": "Lecturer of Exercise Sciences",
-          "organization": "University of Isfahan"
+          "name": "University of Isfahan"
       }
   ],
   "volunteer": [],
