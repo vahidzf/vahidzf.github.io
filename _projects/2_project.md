@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sports Rehabilitation and Injury Prevention
-description: Sports Rehabilitation and Injury Prevention
+description:
 img: /assets/img/vahid_project2.png
 importance: 2
 category: Research
@@ -22,8 +22,3 @@ Papers in this category delve into sports-related injuries, prevention strategie
 predisposition to injuries, neuromuscular rehabilitation after strokes, and specialized training methods for athletes. The aim is to minimize injuries, enhance
  recovery, and optimize athletes' performance. A sample of my studies are referenced below. 
 
--	The comparison and association of incidence and severity of exercise-induced injuries among various genotypes of ACTN3 in Iranian male elite weightlifters
--	Can early neuromuscular rehabilitation protocol improve disability after a hemiparetic stroke? A pilot study
--	Effect of Kangoo Jump on Posture Balance and Postural sway of Children with Autism
--	Stance Phases Characteristics of Walking in Children with Autism
--	The prevalence and likely causes of injuries in amateur Greco-Roman wrestlers

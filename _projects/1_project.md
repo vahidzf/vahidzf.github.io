@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Geriatric Health and Exercise
-description: Geriatric Health and Exercise
+description:
 img: /assets/img/vahid_project1.png
 importance: 1
 category: Research
@@ -21,8 +21,3 @@ This category focuses on studies related to the aging population, addressing iss
 Research within this category explores exercise interventions tailored to older adults, aiming to enhance their mobility, stability, and overall quality of life.
  A sample of my studies are referenced below. 
 
--	A comparison between effects of Square-Stepping Exercise and Tai Chi Chuan on functional fitness and fear of falling in older women
--	Effects of Eight Weeks of Dynamic Neuromuscular Stabilization Exercises on the Balance of Older Men
--	The effect of 12 weeks practicing stepping patterns with a light screen on the static and dynamic balance of children with autism
--	The Effect of Water Walking on Pain Intensity and Motor Function in Men with Non-Specific Chronic Back Pain
--	Comparison of the Effect of 8 Weeks of Land Exercise Therapy and Hydrotherapy on Functional Activities of Elderly Women with Knee Osteoarthritis
