@@ -5,7 +5,7 @@ description: Geriatric Health and Exercise
 img: /assets/img/vahid_project1.png
 importance: 1
 category: Research
-related_publications: eskandari2018prevalence
+related_publications: sadeghian2023comparison,safari2023effects,sadeghi2023effect,rezai2022effect,etesami2022comparison
 ---
 
 <div class="row">
@@ -17,7 +17,9 @@ related_publications: eskandari2018prevalence
 BioPhychoSocial Approach to Exercise Rehabilitation.
 </div>
 
-This category focuses on studies related to the aging population, addressing issues such as balance, functional fitness, and pain management. Research within this category explores exercise interventions tailored to older adults, aiming to enhance their mobility, stability, and overall quality of life. A sample of my studies in this category follows. 
+This category focuses on studies related to the aging population, addressing issues such as balance, functional fitness, and pain management. 
+Research within this category explores exercise interventions tailored to older adults, aiming to enhance their mobility, stability, and overall quality of life.
+ A sample of my studies are referenced below. 
 
 -	A comparison between effects of Square-Stepping Exercise and Tai Chi Chuan on functional fitness and fear of falling in older women
 -	Effects of Eight Weeks of Dynamic Neuromuscular Stabilization Exercises on the Balance of Older Men

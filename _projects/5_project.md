@@ -5,10 +5,12 @@ description: Psychological Aspects of Sports and Rehabilitation
 img:
 importance: 5
 category: Research
-related_publications: eskandari2018prevalence
+related_publications: zolaktaf2018effects,zolaktaf2008psycho,eskandari2016relationship,etesami2022comparison,shadi2011effects
 ---
 
-This category delves into the psychological dimensions of sports, exploring areas such as coach-athlete relationships and sports anxiety. Studies within this category investigate the impact of communication skills on athletic performance and delve into the psychological adjustment of athletes, shedding light on the crucial interplay between mental states and sports outcomes. A sample of my studies in this category follows.
+This category delves into the psychological dimensions of sports, exploring areas such as coach-athlete relationships and sports anxiety. 
+Studies within this category investigate the impact of communication skills on athletic performance and delve into the psychological adjustment of athletes,
+ shedding light on the crucial interplay between mental states and sports outcomes. A sample of my studies are referenced below. 
 
 -	Effects of Instruction of Communication Skills on Coach-Athlete Relationships
 -	Psycho-Social Adjustment of Female Athletes in Team and Individual Sports
