@@ -5,7 +5,7 @@ description: Geriatric Health and Exercise
 img: /assets/img/vahid_project1.png
 importance: 1
 category: Research
-related_publications: sadeghian2023comparison,safari2023effects,sadeghi2023effect,rezai2022effect,etesami2022comparison
+related_publications: sadeghian2023comparison,safari2023effects,sadeghi2023effect,rezai2022effect,etesami2022comparison1,
 ---
 
 <div class="row">
