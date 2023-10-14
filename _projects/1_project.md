@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research 1
+title: Geriatric Health and Exercise
 description: Geriatric Health and Exercise
 img: /assets/img/vahid_project1.png
 importance: 1

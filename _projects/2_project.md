@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research 2
+title: Sports Rehabilitation and Injury Prevention
 description: Sports Rehabilitation and Injury Prevention
 img: /assets/img/vahid_project2.png
 importance: 2

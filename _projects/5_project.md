@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research 5
+title: Psychological Aspects of Sports and Rehabilitation
 description: Psychological Aspects of Sports and Rehabilitation
 img:
 importance: 5

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research 4
+title: Exercise Physiology and Performance
 description: Exercise Physiology and Performance
 img:
 importance: 4

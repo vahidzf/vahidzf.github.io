@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research 3
+title: Specialized Training Techniques
 description: Specialized Training Techniques
 img:
 importance: 3
