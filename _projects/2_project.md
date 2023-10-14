@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image
+description: Sports Rehabilitation and Injury Prevention
 img: /assets/img/vahid_project2.png
 importance: 2
 category: Research

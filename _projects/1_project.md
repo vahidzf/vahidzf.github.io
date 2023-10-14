@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: research 1
+description: Geriatric Health and Exercise
 img: /assets/img/vahid_project1.png
 importance: 1
 category: Research

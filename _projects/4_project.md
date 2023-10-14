@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 4
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: research 4
+description: Exercise Physiology and Performance
+img:
 importance: 4
 category: Research
 ---

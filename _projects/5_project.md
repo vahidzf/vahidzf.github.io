@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: research 5
+description: Psychological Aspects of Sports and Rehabilitation
+img:
 importance: 5
 category: Research
 ---
