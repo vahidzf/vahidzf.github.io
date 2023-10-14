@@ -5,7 +5,7 @@ description: Specialized Training Techniques
 img:
 importance: 3
 category: Research
-related_publications: nekouei2020effect,karimzadehfini2018applying,qakuchaki2015effect1,ghaderiyan2016effect,hasanpour2014effect
+related_publications: nekouei2020effect1,karimzadehfini2018applying,qakuchaki2015effect1,ghaderiyan2016effect,hasanpour2014effect
 ---
 
 This category encompasses research on innovative and specialized training techniques, such as rebound therapy and unique exercise programs tailored for specific 
