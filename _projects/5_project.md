@@ -5,7 +5,7 @@ description: Psychological Aspects of Sports and Rehabilitation
 img:
 importance: 5
 category: Research
-related_publications: zolaktaf2018effects,zolaktaf2008psycho,eskandari2016relationship,etesami2022comparison,shadi2011effects
+related_publications: zolaktaf2018effects,zolaktaf2008psycho,eskandari2016relationship,shadi2011effects,etesami2015effectiveness1
 ---
 
 This category delves into the psychological dimensions of sports, exploring areas such as coach-athlete relationships and sports anxiety. 
