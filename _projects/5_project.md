@@ -5,6 +5,7 @@ description: Psychological Aspects of Sports and Rehabilitation
 img:
 importance: 5
 category: Research
+related_publications: eskandari2018prevalence
 ---
 
 Every project has a beautiful feature showcase page.

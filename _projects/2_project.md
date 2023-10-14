@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
+title: research 2
 description: Sports Rehabilitation and Injury Prevention
 img: /assets/img/vahid_project2.png
 importance: 2
 category: Research
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: eskandari2018prevalence
 ---
 
 Every project has a beautiful feature showcase page.

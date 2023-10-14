@@ -5,6 +5,7 @@ description: Exercise Physiology and Performance
 img:
 importance: 4
 category: Research
+related_publications: eskandari2018prevalence
 ---
 
 Every project has a beautiful feature showcase page.
