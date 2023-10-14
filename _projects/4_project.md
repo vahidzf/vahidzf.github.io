@@ -5,7 +5,7 @@ description: Exercise Physiology and Performance
 img:
 importance: 4
 category: Research
-related_publications: matinhomaee2014effects,zolaktaf2013effects,kargar2017stability,marandi2011determination
+related_publications: matinhomaee2014effects,zolaktaf2013effects,kargar2017stability,marandi2011determination,heidari2013estimation
 ---
 
 
