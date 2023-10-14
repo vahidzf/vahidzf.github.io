@@ -5,7 +5,7 @@ description: Sports Rehabilitation and Injury Prevention
 img: /assets/img/vahid_project2.png
 importance: 2
 category: Research
-related_publications: batavani2022comparison,yazdani2022can,nekouei2020effect,aghakochaki2022stance2,eskandari2018prevalence
+related_publications: batavani2022comparison,yazdani2022can,nekouei2020effect,aghakochaki2022stance1,eskandari2018prevalence
 ---
 
 <div class="row">
