@@ -26,5 +26,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
  
 
 I am a professor at the University of Isfahan and the University of Safahan,  and the CEO of Safahan Exercise Rehab Center. I specialize in exercise rehabilitation for injured athletes and patients. My expertise spans kinesiology, patho-kinesiology, neuromuscular physiology, and statistical analysis in exercise sciences. 
+
 This website showcases my academic journey, research, and educational philosophy, offering valuable insights and resources to students, researchers, and exercise science enthusiasts.
 
