@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: research domain
 permalink: /projects/
 description: On this page, you can find a brief summary of some of my research interests.
 nav: true
