@@ -6,6 +6,7 @@ description: I teach the courses listed on this page.
 nav: true
 nav_order: 3
 ---
+# Taught Courses
 
 - Instructor
   - Institution: University of Isfahan
@@ -28,3 +29,5 @@ nav_order: 3
     - Assessment and Evaluation in PE
     - Physical Fitness
     - Exercise and Disease
+
+# Student Thesis
