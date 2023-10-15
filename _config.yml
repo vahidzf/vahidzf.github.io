@@ -70,7 +70,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: vahidzolaktaf
 telegram_username: # your Telegram user name
 scholar_userid: NDGuxa8AAAAJ&hl=en&oi=ao
 semanticscholar_id: # your Semantic Scholar ID
@@ -103,7 +103,6 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can reach me by email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
