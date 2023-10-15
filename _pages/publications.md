@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: <h6>Please see <b><a href='https://scholar.google.ca/citations?user=NDGuxa8AAAAJ&hl=en&oi=ao'>Google Scholar Profile</a></b> for an up-to-date list.</h6>
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 1999]
 nav: true
